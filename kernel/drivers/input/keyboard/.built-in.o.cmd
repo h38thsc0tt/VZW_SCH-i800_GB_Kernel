@@ -1,1 +1,0 @@
-cmd_drivers/input/keyboard/built-in.o :=  /home/dsb9938/toolchains/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/atkbd.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/p1_keyboard.o 

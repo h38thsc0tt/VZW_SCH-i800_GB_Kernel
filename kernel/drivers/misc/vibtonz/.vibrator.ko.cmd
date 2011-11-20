@@ -1,1 +1,0 @@
-cmd_drivers/misc/vibtonz/vibrator.ko := /home/dsb9938/toolchains/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/dsb9938/Desktop/Tab/kernel/scripts/module-common.lds --build-id -o drivers/misc/vibtonz/vibrator.ko drivers/misc/vibtonz/vibrator.o drivers/misc/vibtonz/vibrator.mod.o
