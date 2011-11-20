@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-wm8994.o := /home/dsb9938/toolchains/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o sound/soc/codecs/snd-soc-wm8994.o sound/soc/codecs/wm8994.o sound/soc/codecs/wm8994_p1.o 

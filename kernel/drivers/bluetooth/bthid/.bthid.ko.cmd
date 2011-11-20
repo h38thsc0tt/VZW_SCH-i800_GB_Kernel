@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/bthid/bthid.ko := /home/dsb9938/toolchains/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/dsb9938/Desktop/Tab/kernel/scripts/module-common.lds --build-id -o drivers/bluetooth/bthid/bthid.ko drivers/bluetooth/bthid/bthid.o drivers/bluetooth/bthid/bthid.mod.o

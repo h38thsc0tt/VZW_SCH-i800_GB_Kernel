@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/bcm4329/dhd.ko := /home/dsb9938/toolchains/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/dsb9938/Desktop/Tab/kernel/scripts/module-common.lds --build-id -o drivers/net/wireless/bcm4329/dhd.ko drivers/net/wireless/bcm4329/dhd.o drivers/net/wireless/bcm4329/dhd.mod.o

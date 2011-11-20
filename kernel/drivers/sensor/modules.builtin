@@ -1,0 +1,7 @@
+kernel/drivers/sensor/accel/bma020_i2c.ko
+kernel/drivers/sensor/accel/bma020.ko
+kernel/drivers/sensor/accel/bma020_acc.ko
+kernel/drivers/sensor/accel/bma020calib.ko
+kernel/drivers/sensor/compass/ak8973b.ko
+kernel/drivers/sensor/gyro/l3g4200d.ko
+kernel/drivers/sensor/light/bh1721.ko
