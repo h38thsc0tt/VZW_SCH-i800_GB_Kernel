@@ -2,7 +2,7 @@ VERSION = 2
 PATCHLEVEL = 6
 SUBLEVEL = 35
 EXTRAVERSION = .7
-NAME = dsb9938.VZW.GTab.EI04.1.0.1
+NAME = dsb9938.VZW.GTab.EI04.1.0.6
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
